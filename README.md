@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm [Your Name]
-[ and Major]
+# Hi there! 👋 I'm AYISHATHUL ASHRIYA A
+
 I am a B.Tech Computer Science and Engineering student based in Karnataka, India, with a passion for technology and coding. Currently enrolled at KVG College of Engineering Sullia
 
 
