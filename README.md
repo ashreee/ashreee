@@ -9,11 +9,12 @@ I am a B.Tech Computer Science and Engineering student based in Karnataka, India
 - Web Technologies: HTML, CSS, JavaScript
 - Frameworks/Libraries: Bootstrap
 
-## 📚 Education
+- **B.Tech in Computer Science and Engineering**
+  [Visvesvaraya Technological University], [Expected Graduation: 2024]
 
-- [Visvesvaraya Technological University], [Btech], [CSE], [2024]
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/ayishaashree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayishaashree" height="30" width="40" /></a>
 <a href="https://instagram.com/ashreee.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashreee.__" height="30" width="40" /></a>
