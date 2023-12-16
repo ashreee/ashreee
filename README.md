@@ -8,6 +8,8 @@ I am a B.Tech Computer Science and Engineering student based in Karnataka, India
 - Programming Languages: C, Java, Python
 - Web Technologies: HTML, CSS, JavaScript
 - Frameworks/Libraries: Bootstrap
+  
+## 📚 Education
 
 - **B.Tech in Computer Science and Engineering**
   [Visvesvaraya Technological University], [Expected Graduation: 2024]
