@@ -26,12 +26,7 @@ I am a B.Tech Computer Science and Engineering student based in Karnataka, India
 
 - Email: ashreeash4@gmail.com
 
-## 🚀 Projects
 
-- https://github.com/ashreee/AN_PHARMACY_.git
-- https://github.com/ashreee/FIFO.git
-- https://github.com/ashreee/ANFOODS.git
-- https://github.com/ashreee/MULTIPLE-DISEASE-PREDICTION.git
 
   
 
